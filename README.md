@@ -1,2 +1,3 @@
-# request-viewer
-Receive and show the current HTTP request data
+# Request Viewer
+
+Receive and show the current HTTP request data.
